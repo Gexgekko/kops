@@ -193,3 +193,17 @@
 .box .box-collapse .btn-box:hover {
   color: #0c5a7c;
 }
+.blockoff-left {
+  padding-left: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-left: 1px solid #d5d5d5;
+  border-bottom: 1px solid #d5d5d5;
+}
+.blockoff-right {
+  padding-right: 10px;
+  margin-bottom: 10px;
+  padding-bottom: 10px;
+  border-right: 1px solid #d5d5d5;
+  border-bottom: 1px solid #d5d5d5;
+}
