@@ -1,2 +1,3 @@
-# kops
-K.O.P.S. Clan page
+# Killers Of Parted Souls
+K.O.P.S. Clan page tests.
+
